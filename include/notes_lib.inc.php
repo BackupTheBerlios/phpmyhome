@@ -1,0 +1,3 @@
+<?
+	define(libNOTES,		"Notes");
+?>
